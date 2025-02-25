@@ -1,43 +1,29 @@
 # 👋 Hi, I'm Gishwin Antony
 
-🚀 **Software Engineer | Django Developer | AI & Cloud Enthusiast**  
+🚀 **Software Engineer | Python Developer | AI & Cloud Enthusiast**  
 
 🔹 Passionate about building efficient, scalable, and AI-powered applications.  
 🔹 Experienced in **Python, Django, REST APIs, Docker, MongoDB, MySQL, PostgreSQL, AWS, and Azure AI Services**.  
-🔹 Focused on developing intelligent search systems, optimizing backend performance, and integrating AI solutions.  
+🔹 Focused on developing web services, intelligent search systems, optimizing backend performance, and integrating AI Systems and solutions.  
 
 ---
 
 ## 📜 **Tech Stack**  
 💻 **Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/python.png" width="65"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/django.png" width="65"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/node_js.png" width="70">
 
 🛢 **Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mysql.png" width="70"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mongodb.png" width="70"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/postgresql.png" width="70">
 
 ☁️ **Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-
----
-
-## 🏆 **Key Projects**  
-✅ **TFHD Chat** – Open-source document search with **Azure AI Search**  
-✅ **Django + MongoDB App** – Scalable data handling with **Djongo**  
-✅ **RAG-based AI Search** – AI-powered document indexing & retrieval  
+<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/aws.png" width="70"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/docker.png" width="70">
 
 ---
 
 ## 📫 **Let's Connect!**  
-🔗 **GitHub:** [github.com/your-username](https://github.com/your-username)  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-📧 **Email:** your.email@example.com  
+🔗 **GitHub:** [github.com/gishwinantony](https://github.com/gishwinantony)  
+💼 **LinkedIn:** [in/gishwin-antony](www.linkedin.com/in/gishwinantony/)  
+📧 **Email:** gishwinantony@gmail.com  
 
 ---
 
