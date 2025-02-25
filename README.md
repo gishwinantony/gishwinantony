@@ -8,16 +8,6 @@
 
 ---
 
-## 🔥 **About Me**  
-- 🏆 *Employee of the Year Finalist*  
-- 📌 2+ years of experience in **Python & Django**  
-- 🌍 Open to **hybrid & international** job opportunities  
-- 🏗 Developed a **RAG-based architecture** for **Azure AI Search**  
-- 💡 Love contributing to **open-source** & exploring **AI-powered applications**  
-- 🛠 Worked with **Box SDK, LangChain, Azure OpenAI, and TFHD Chat**  
-
----
-
 ## 📜 **Tech Stack**  
 💻 **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
