@@ -18,8 +18,6 @@
 
 ### 🤖 AI & Agentic AI
 
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/openai.png" width="65"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/ollama.png" width="65">
-
 **LangGraph · AutoGen · LangChain · MCP · RAG · Multi-Agent Systems · Tool Calling · LLM-as-a-Judge · Prompt Evaluation · PromptFoo · Langfuse**
 
 ### 🛢️ Databases & Search
@@ -30,15 +28,9 @@
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/aws.png" width="70"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/azure.png" width="70"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/docker.png" width="70"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/kubernetes.png" width="70"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/terraform.png" width="70">
+<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/aws.png" width="70">  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/docker.png" width="70"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/kubernetes.png" width="70"> 
 
-**AWS · Azure · Docker · Kubernetes · Terraform · GitHub Actions · CI/CD · Linux · Nginx**
-
-### 🧪 Testing & Automation
-
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/playwright.png" width="70">
-
-**Playwright · MCP Browser Automation · End-to-End Testing · AI-Generated Tests · Test Automation Agents**
+**AWS  · Docker · Kubernetes  · GitHub Actions · CI/CD · Linux · Nginx**
 
 ### ⚙️ Backend & Architecture
 
@@ -67,5 +59,3 @@
 📧 **Email:** [gishwinanty@gmail.com](mailto:gishwinanty@gmail.com)
 
 ---
-
-🚀 **Building AI systems that actually work in production.** 🔥
