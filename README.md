@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | AI & Backend Engineer | Agentic AI Enthusiast**
 
-🔹 Software Engineer with **4+ years of experience** building production-grade backend and AI applications.
+🔹 Software Engineer with **4+ years of experience** building production-grade backend and AI applications.\
 🔹 Experienced in **Python, FastAPI, Django, REST APIs, gRPC, AI Agents, RAG, MCP, and LLM-based systems**.
 🔹 Building **agentic systems, multi-agent workflows, AI-powered developer tools, and browser automation solutions**.
 🔹 Experienced with **AWS, Azure, Docker, Kubernetes, CI/CD, and distributed backend systems**.
