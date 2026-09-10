@@ -2,8 +2,8 @@
 
 🚀 **Software Engineer | AI & Backend Engineer | Agentic AI Enthusiast**
 
-🔹 Software Engineer with **4+ years of experience** building production-grade backend and AI applications.\
-🔹 Experienced in **Python, FastAPI, Django, REST APIs, gRPC, AI Agents, RAG, MCP, and LLM-based systems**.\
+🔹 Software Engineer building production-grade backend systems and AI applications.\
+🔹 Experienced in **Python, FastAPI, REST APIs, gRPC, AI Agents, RAG, MCP, and LLM-based systems**.\
 🔹 Building **agentic systems, multi-agent workflows, AI-powered developer tools, and browser automation solutions**.\
 🔹 Experienced with **AWS, Azure, Docker, Kubernetes, CI/CD, and distributed backend systems**.\
 🔹 Interested in building reliable AI systems with strong **evaluation, observability, scalability, and production engineering** practices.
@@ -44,8 +44,6 @@
 
 🧠 **AI Knowledge Systems** — Developing knowledge bases and retrieval pipelines that allow agents to understand large codebases and application documentation.
 
-🧪 **AI-Powered Testing** — Building agents that explore applications, generate Playwright tests and execute end-to-end test workflows.
-
 ☁️ **AI Infrastructure** — Working with Kubernetes, Docker, AWS and distributed services to run isolated AI workloads at scale.
 
 📊 **AI Evaluation** — Exploring LLM-as-a-Judge, prompt evaluation, red teaming and observability for production AI systems.
@@ -54,8 +52,8 @@
 
 ## 📫 **Let's Connect!**
 
-🔗 **GitHub:** [github.com/gishwinantony](https://github.com/gishwinantony)
-💼 **LinkedIn:** [linkedin.com/in/gishwinantony](https://www.linkedin.com/in/gishwinantony/)
-📧 **Email:** [gishwinanty@gmail.com](mailto:gishwinanty@gmail.com)
+🔗 **GitHub:** [github.com/gishwinantony](https://github.com/gishwinantony)\
+💼 **LinkedIn:** [linkedin.com/in/gishwinantony](https://www.linkedin.com/in/gishwinantony/)\
+📧 **Email:** [gishwinanty@gmail.com](mailto:gishwinanty@gmail.com)\
 
 ---
