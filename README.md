@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gishwin Antony
+#👋 Hi, I'm Gishwin Antony
 
 🚀 **Software Engineer | AI & Backend Engineer | Agentic AI Enthusiast**
 
